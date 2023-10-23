@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student>
+        <id>1</id>
+        <name>Nayan</name>
+        <email>nayan@gmai.com</email>
+        <contact>5525896322</contact>
+    </student>
+    <student>
+        <id>2</id>
+        <name>Tushar</name>
+        <email>bodarya@gmail.com</email>
+        <contact>1234656722</contact>
+    </student>
+    <student>
+        <id>3</id>
+        <name>Nensi</name>
+        <email>nensi@gmai.com</email>
+        <contact>54551531520</contact>
+    </student>
+    <student>
+        <id>4</id>
+        <name>Rutvi</name>
+        <email>rutvi@gmai.com</email>
+        <contact>65531653116</contact>
+    </student>
+</students>
